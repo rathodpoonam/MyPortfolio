@@ -55,7 +55,7 @@ const WebNavbar = () => {
                             onClick={() => setIsResumeOpen(true)}
                             className="rounded-md bg-[#96ff01] px-3.5 py-1.5 text-sm font-semibold text-black shadow-xs hover:bg-white hover:text-black"
                         >
-                            My Resume
+                            View My Resume
                         </button>
                     </div>
                 </nav>
@@ -116,7 +116,7 @@ const WebNavbar = () => {
                                 download
                                 className="rounded-md bg-[#96ff01] px-3.5 py-2.5 text-sm font-semibold text-black hover:bg-white hover:text-black"
                             >
-                                My Resume
+                                Download My Resume
                             </a>
                         </AnimatedContent>
                     </div>
