@@ -50,7 +50,7 @@ const WebNavbar = () => {
                             <span className="text-white font-bold text-xl">Portfolio</span>
                         </a>
                     </div>
-                    <div className="hidden lg:flex lg:gap-x-12">
+                    <div className="flex lg:gap-x-12">
                         <button
                             onClick={() => setIsResumeOpen(true)}
                             className="rounded-md bg-[#96ff01] px-3.5 py-1.5 text-sm font-semibold text-black shadow-xs hover:bg-white hover:text-black"
